@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Governance Workgroup](README.md)
+* [Governance Gitbook](README.md)
 * [Activities](activities/README.md)
   * [2023](activities/2023/README.md)
     * [April 2023](activities/2023/april-2023.md)
