@@ -1,6 +1,6 @@
 ---
-description: SingularityNET Ambassadors program - Governance Workgroup
+description: SingularityNET Ambassadors program - Governance GitBook
 ---
 
-# Governance Workgroup
+# Governance GitBook
 
